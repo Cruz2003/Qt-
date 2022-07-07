@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chap01",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "chap01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chap01-Debug-4909efa306f43d661f8e.json",
+					"name" : "chap01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chap01_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chap01_autogen-Debug-db5aedebdce19cfe2559.json",
+					"name" : "chap01_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chap01_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chap01_autogen_timestamp_deps-Debug-02992487e85365410a22.json",
+					"name" : "chap01_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt/QtBook/build-chap01-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+		"source" : "D:/Qt/QtBook/chap01"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

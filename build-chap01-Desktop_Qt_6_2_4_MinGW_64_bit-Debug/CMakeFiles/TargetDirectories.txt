@@ -1,0 +1,5 @@
+D:/Qt/QtBook/build-chap01-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/chap01.dir
+D:/Qt/QtBook/build-chap01-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Qt/QtBook/build-chap01-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Qt/QtBook/build-chap01-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/chap01_autogen_timestamp_deps.dir
+D:/Qt/QtBook/build-chap01-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/chap01_autogen.dir

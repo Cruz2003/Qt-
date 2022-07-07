@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/bad01.png</file>
+        <file>res/bad02.png</file>
+        <file>res/bad04.png</file>
+        <file>res/icon01.png</file>
+        <file>res/map01.jpg</file>
+        <file>res/map02.jpg</file>
+        <file>res/map03.jpg</file>
+        <file>res/blt01.png</file>
+        <file>res/blt02.png</file>
+        <file>res/blt03.png</file>
+        <file>res/boom01.gif</file>
+        <file>res/hero01.gif</file>
+        <file>res/map04.jpg</file>
+        <file>res/map05.jpg</file>
+    </qresource>
+</RCC>

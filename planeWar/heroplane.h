@@ -1,0 +1,28 @@
+#ifndef HEROPLANE_H
+#define HEROPLANE_H
+#include <QPixmap>
+#include <QRect>
+class HeroPlane
+{
+public:
+    HeroPlane();
+
+    //设置飞机位置
+    void setPosition(int x, int y);
+
+
+    //飞机资源 对象
+    QPixmap m_Plane;
+    //飞机坐标
+    int m_X;
+    int m_Y;
+
+    //飞机的矩形边框
+    QRect m_Rect;
+
+    //回到原点
+    void resetPosition();
+};
+
+#endif // HEROPLANE_H
+
